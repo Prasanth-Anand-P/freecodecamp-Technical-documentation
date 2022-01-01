@@ -112,6 +112,11 @@ body{
 	border-bottom: 1px gray solid;
 }
 
+	#navbar a:hover{
+		background-color: white;
+		color: black;
+	}
+
 
 	.nav-bar #nav-title{
 		/*position: fixed;*/
@@ -150,6 +155,11 @@ body{
 		overflow-y: scroll;	
 	}
 
+	#navbar a:hover{
+		background-color: white;
+		color: black;
+	}
+
 
 	.main{
 		position: absolute;
@@ -177,6 +187,11 @@ body{
 		z-index: 2;
 		overflow-y: scroll;	
 	}
+
+	#navbar a:hover{
+		background-color: white;
+		color: black;
+	}	
 
 	.nav-bar #navbar{
 		width: 100%;
